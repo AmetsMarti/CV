@@ -174,7 +174,8 @@
     contact-row("envelope", [amartiarena017\@gmail.com]),
     contact-row("house", [Azkue Kalea 3, 1-D. Ibarra. Gipuzkoa]),
     contact-row("calendar", [2004/07/20]),
-    contact-row("github", [github.com/AmetsMarti]),
+    contact-row("github", [https://www.github.com/AmetsMarti]),
+    contact-row("linkedin", [https://www.linkedin.com/in/amets-martiarena-1530312b0/])
   ),
 )
 

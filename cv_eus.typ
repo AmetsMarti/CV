@@ -173,7 +173,7 @@
     contact-row("phone", [688 73 63 86]),
     contact-row("envelope", [amartiarena017\@gmail.com]),
     contact-row("house", [Azkue Kalea 3, 1-D. Ibarra. Gipuzkoa]),
-    contact-row("cake", [2004/07/20]),
+    contact-row("calendar", [2004/07/20]),
     contact-row("github", [github.com/AmetsMarti]),
   ),
 )

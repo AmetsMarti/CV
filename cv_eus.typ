@@ -154,14 +154,11 @@
   columns: (18%, 1fr, 34%),
   gutter: 0.6cm,
   align: (center + horizon, center + horizon, right + horizon),
-  rotate(
-    2deg,
-    rect(
-      stroke: 2pt + black,
-      fill: white,
-      inset: 4pt,
-      image("amets4.jpg", width: 2.4cm)
-    )
+  rect(
+    stroke: 2pt + black,
+    fill: white,
+    inset: 4pt,
+    image("amets4.jpg", width: 2.4cm)
   ),
   align(
     center,
